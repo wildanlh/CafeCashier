@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">CafeCashier</string>
+    <string name="welcome">Welcome</string>
+    <string name="hello">Hello</string>
+    <string name="burger">Beef Burger</string>
+    <string name="chicken">Honey Garlic Chicken Rice</string>
+    <string name="fries">Regular Fries</string>
+    <string name="icecream">Ice Cream Cone</string>
+    <string name="flurry">Flurry Oreo</string>
+    <string name="fanta">Fanta Float</string>
+    <string name="food">Foods</string>
+    <string name="drink">Drinks</string>
+    <string name="subtotal">Sub Total</string>
+    <string name="total">Total</string>
+    <string name="tax">Tax</string>
+    <string name="cash">Cash</string>
+    <string name="change">Change</string>
+    <string name="date">Date</string>
+    <string name="order">Order</string>
+    <string name="csname">Customer Name</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="add">Add</string>
+    <string name="greeting">Greeting</string>
+    <string name="inputname">Input Your Name</string>
+    <string name="employee">Employee Name</string>
+    <string name="signin">Sign In</string>
+    <string name="idr">IDR</string>
+    <string name="priceburger">30000</string>
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="checkout">Check Out</string>
+    <string name="menu">Menu</string>
+    <string name="totalorder">Total Order</string>
+    <string name="address">Address</string>
+    <string name="open">Open</string>
+    <string name="amount">Amount</string>
+    <string name="rp">Rp</string>
+    <string name="pay">pay</string>
+    <string name="bill">Bill</string>
+    <string name="thanks">Thank You For The Order</string>
+    <string name="reset">Reset</string>
+    <string name="addcash">Add Cash</string>
+    <string name="rpzero">Rp0</string>
+
+</resources>

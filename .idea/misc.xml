@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_Studio/CafeCashier/app/src/main/res/drawable-v24/calender_white.xml" value="0.131" />
+        <entry key="..\:/Android_Studio/CafeCashier/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Android_Studio/CafeCashier/app/src/main/res/drawable-v24/ic_remove.xml" value="0.164" />
+        <entry key="..\:/Android_Studio/CafeCashier/app/src/main/res/drawable-v24/menu_background.xml" value="0.131" />
+        <entry key="..\:/Android_Studio/CafeCashier/app/src/main/res/drawable-v24/menu_background_red.xml" value="0.131" />
+        <entry key="..\:/Android_Studio/CafeCashier/app/src/main/res/drawable-v24/rectangle_grey.xml" value="0.1185" />
+        <entry key="..\:/Android_Studio/CafeCashier/app/src/main/res/drawable-v24/rectangle_rounded_red.xml" value="0.131" />
+        <entry key="..\:/Android_Studio/CafeCashier/app/src/main/res/drawable-v24/rectangle_white.xml" value="0.131" />
+        <entry key="..\:/Android_Studio/CafeCashier/app/src/main/res/drawable/ic_add.xml" value="0.164" />
+        <entry key="..\:/Android_Studio/CafeCashier/app/src/main/res/drawable/ic_logo.xml" value="0.1" />
+        <entry key="..\:/Android_Studio/CafeCashier/app/src/main/res/drawable/ic_logotext.xml" value="0.164" />
+        <entry key="..\:/Android_Studio/CafeCashier/app/src/main/res/drawable/ic_shop.xml" value="0.164" />
+        <entry key="..\:/Android_Studio/CafeCashier/app/src/main/res/layout/activity_bill.xml" value="0.22" />
+        <entry key="..\:/Android_Studio/CafeCashier/app/src/main/res/layout/activity_check_out.xml" value="0.22" />
+        <entry key="..\:/Android_Studio/CafeCashier/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Android_Studio/CafeCashier/app/src/main/res/layout/activity_order.xml" value="0.25" />
+        <entry key="..\:/Android_Studio/CafeCashier/app/src/main/res/layout/activity_order_test.xml" value="0.1546875" />
+        <entry key="..\:/Android_Studio/CafeCashier/app/src/main/res/layout/activity_splash.xml" value="0.16666666666666666" />
+        <entry key="..\:/Android_Studio/CafeCashier/app/src/main/res/layout/activity_test.xml" value="0.1546875" />
+        <entry key="..\:/Android_Studio/CafeCashier/app/src/main/res/layout/cafe_row.xml" value="0.22" />
+        <entry key="..\:/Android_Studio/CafeCashier/app/src/main/res/layout/check_out_row.xml" value="0.22" />
+        <entry key="..\:/Android_Studio/CafeCashier/app/src/main/res/layout/drinks_recycler_row.xml" value="0.1308876811594203" />
+        <entry key="..\:/Android_Studio/CafeCashier/app/src/main/res/layout/foods_recycler_row.xml" value="0.1308876811594203" />
+        <entry key="..\:/Android_Studio/CafeCashier/app/src/main/res/layout/menu_recycler_row.xml" value="0.22" />
+        <entry key="..\:/Android_Studio/CafeCashier/app/src/main/res/layout/menudrinks_recycler_row.xml" value="0.1308876811594203" />
+        <entry key="..\:/Android_Studio/CafeCashier/app/src/main/res/layout/popup.xml" value="0.1546875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

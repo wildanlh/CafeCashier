@@ -1,0 +1,49 @@
+[
+    {
+      "name":"WEEL Cafe",
+      "address":"Indonesia",
+      "tax": 10,
+
+      "hours":{
+        "Sunday":"8:00 AM - 10:00 PM",
+        "Monday":"8:00 AM - 10:00 PM",
+        "Tuesday":"8:00 AM - 10:00 PM",
+        "Wednesday":"8:00 AM - 10:00 PM",
+        "Thursday":"8:00 AM - 10:00 PM",
+        "Friday":"8:00 AM - 10:00 PM",
+        "Saturday":"8:00 AM - 12:00 PM"
+      },
+      "menus": [
+        {
+          "name": "Honey Garlic Chicken Rice",
+          "price": 35000,
+          "url": "https://nos.jkt-1.neo.id/mcdonalds/foods/August2020/70rczaWB3BmkIb2DiXby.png"
+        },
+        {
+          "name": "Beef Burger",
+          "price": 30000,
+          "url": "https://nos.jkt-1.neo.id/mcdonalds/foods/August2020/NUfkX3XBlwCVguapu681.png"
+        },
+        {
+          "name": "Reguler Fries",
+          "price": 25000,
+          "url": "https://order.bkdelivery.co.id/media/thumb/product_photo/2020/4/15/rkcfdymqyjgt6jc4fpcwsd_product_details.png"
+        },
+        {
+          "name": "Ice Cream Cone",
+          "price": 10000,
+          "url": "https://nos.jkt-1.neo.id/mcdonalds/foods/August2019/eO8BGkwAqrXH7y0MYJ3K.png"
+        },
+        {
+          "name": "Flurry Oreo",
+          "price": 18000,
+          "url": "https://nos.jkt-1.neo.id/mcdonalds/foods/August2019/NErmB3hmpyesFaaOsnT1.png"
+        },
+        {
+          "name": "Fanta Float",
+          "price": 15000,
+          "url": "https://nos.jkt-1.neo.id/mcdonalds/foods/September2019/4ANlG5rmRU06y7H2hgos.png"
+        }
+      ]
+    }
+]
